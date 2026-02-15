@@ -3,3 +3,4 @@ matplotlib
 scipy
 numpy
 voila
+jupyter_contrib_nbextensions
